@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Cvicenie4_argumenty": {
+      "commandName": "Project",
+      "commandLineArgs": "Windows \"Program Files\" \"aplikacia.dll\" \"paint.exe\" code"
+    }
+  }
+}
